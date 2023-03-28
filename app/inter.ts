@@ -10,7 +10,7 @@ const inter: Init = {
         cors(),      
     ],
     controller: [
-        new HomeController('/'),
+        new HomeController(),
     ]
 }
 

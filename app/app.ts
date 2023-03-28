@@ -1,4 +1,3 @@
-import express, {Express, NextFunction, Request, Response} from 'express';
 import dotenv from 'dotenv';
 import Server from './server';
 import inter from './inter';

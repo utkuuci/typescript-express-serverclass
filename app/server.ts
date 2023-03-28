@@ -1,4 +1,4 @@
-import express, { Application, NextFunction, Request, Response, Router } from "express"
+import express, { Application, NextFunction, Request, Response } from "express"
 import Init from "./core/interfaces/server-interfaces";
 import ControllerInterface from "./core/interfaces/controller-interface";
 
